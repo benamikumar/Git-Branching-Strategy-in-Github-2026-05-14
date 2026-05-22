@@ -1,0 +1,6 @@
+testignore.txt
+*.txt
+variable.tf
+*.mkv
+
+
