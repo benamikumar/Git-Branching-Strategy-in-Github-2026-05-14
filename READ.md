@@ -15,3 +15,5 @@ git log
 git dont recognise empty folder
 git ignore file
 
+--------------------------------
+git branch
