@@ -1,4 +1,4 @@
-testignore.txt
-*.txt
-variable.tf
+# testignore.txt
+# *.txt
+# variable.tf
 *.mkv
